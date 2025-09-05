@@ -33,7 +33,7 @@ It combines **match data** (scores, attendance, revenue) and **player statistics
   ![Revenue by Team](reports/revenue_by_team.png)  
 
 - **Wins vs. Revenue Relationship:**  
-  ![Wins vs Revenue](images/wins_vs_revenue.png)  
+  ![Wins vs Revenue](reports/wins_vs_revenue.png)  
 
 ---
 
