@@ -30,7 +30,7 @@ It combines **match data** (scores, attendance, revenue) and **player statistics
 
 ## Example Visuals
 - **Revenue by Team (Home Games):**  
-  ![Revenue by Team](images/revenue_by_team.png)  
+  ![Revenue by Team](reports/revenue_by_team.png)  
 
 - **Wins vs. Revenue Relationship:**  
   ![Wins vs Revenue](images/wins_vs_revenue.png)  
